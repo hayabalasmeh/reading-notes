@@ -12,6 +12,8 @@ Brief description about me
 - [x] Meeting New Friends with different backgrounds to be inspired.
 - [X] Challenging myself with short deadlines. 
 
+
 #### More about me
  - > A seeker for continuous knowledge for healthcare innovation, artificial intelligence applications in healthcare , clinical data analytics, healthcare automation solutions and everything related to improve the quality of health care services , patient experience, patient engagement ,health policies , patient journey and medical practices with cost-cutting strategies and stretchable budgets, especially in cancer care.
- - Here is a link for my GitHub portfolio page [MY Profile Page](https://github.com/hayabalasmeh) :clap:
+ 
+ - Here is a link for my GitHub portfolio page [MY Profile Page](https://github.com/hayabalasmeh) 
