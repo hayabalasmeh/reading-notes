@@ -11,4 +11,6 @@
  | Read 1      | [First lab read](Read01.md)      |
  | Read 2a     | [Second lab read a](Read02a.md)  |
  | Read 2b     | [Second lab read b](Read02b.md)  |
+ | Read 3      | [Third lab read](Read03.md)      |
+
 
