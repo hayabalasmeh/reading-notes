@@ -13,4 +13,5 @@
  | Read 2b     | [Second lab read b](Read02b.md)  |
  | Read 3      | [Third lab read](Read03.md)      |
  | Read 4      | [Fourth lab read](Read04.md)     |
+ | Read 5      | [Fifth lab read](Read05.md)      |
 
