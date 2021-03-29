@@ -1,8 +1,7 @@
 # Welcome to my reading notes in 29th of March lab:
 
 # In This topic we will talk about Colors and its role in styling webpages. 
-![colors](https://neilpatel.com/wp-content/uploads/2017/08/colors.jpg)
-
+![colorspicture](https://neilpatel.com/wp-content/uploads/2017/08/colors.jpg) 
 ## Why do we need colors for webpages?!
  -Color brings website to life, also helps make it more appealing which could trigger more user reactions.
 ## How Colors are generated?!
