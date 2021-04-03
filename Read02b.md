@@ -1,4 +1,6 @@
-What I have understand that by utilizing a **Version Control System (VCS)** one can revert a file or project to a previous version, also track modifications and modifying individuals.
+## Version Control System (VCS)
+
+By utilizing a **Version Control System (VCS)** one can revert a file or project to a previous version, also track modifications and modifying individuals.
 
 *Also*, I think there is like levels of version control system such as Local Version Control, Centralized Version Control, and the last with the most efficiency is the Distributed Version Control.
 
