@@ -17,7 +17,7 @@
  | Read 5      | [Fifth lab read](Read05.md)      |
  | Read 6      | [Sixth lab read](Read06.md)      |
 
-- You can check the Summary for this level by clicking this [summary link](.vscode/class-01.md)
+- You can check the Summary for this level by clicking this [summary link](class-01.md)
 
  | Second Level; Code (201) | Links for the Past Reading Notes | 
  | ----------- | -------------------------------- |
