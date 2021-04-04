@@ -12,11 +12,12 @@
   - **Closing tag**. 
   - **The content**.
 - In order to write a code in html and to be correctly displayed by the browser you need to write these elements:
-  ‘  <!DOCTYPE html>
-      <html>
-     <head></head>
-     <body></body>
-     </html> ‘
+    - < !DOCTYPE html >
+    - < html >
+    - < head></ head >
+    - < body></ body>
+    - </ html>
+
 2- **CSS**: stands for cascading style sheet and it helps in controlling presentation of Web pages, including colors, layout, and fonts. You can imagine it as the paint of the car.
 ![painting car](https://dynamicmedia.zuza.com/zz/m/original_/1/8/186a1fe5-4138-4a50-9a5e-40a477f754e5/DZ_racingroadster2___Super_Portrait.jpg)
 
