@@ -25,7 +25,7 @@
  | ----------- | -------------------------------- |
  |  class01    |   [First class](class-01md)      |
  |  class02    |   [Second class](class02.md)     |
- |  3          |                                  |
+ |  class03    |   [Third class](class03.md)      |
  |  4          |                                  |
  |  5          |                                  |
  |  6          |                                  |
