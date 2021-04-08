@@ -27,7 +27,7 @@
  |  class02    |   [Second class](class02.md)     |
  |  class03    |   [Third class](class03.md)      |
  |  class04    |   [Fourth class](class04.md)     |
- |  5          |                                  |
+ |  class05    |   [Fifth class](class05.md)      |
  |  6          |                                  |
  |  7          |                                  |
  |  8          |                                  |
