@@ -29,7 +29,7 @@
  |  class04    |   [Fourth class](class04.md)     |
  |  class05    |   [Fifth class](class05.md)      |
  |  class06    |   [Sixth class](class06.md)      |
- |  7          |                                  |
+ |  class07    |   [Seventh class](class07.md)    |
  |  8          |                                  |
  |  9          |                                  |
  |  10         |                                  |

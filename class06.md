@@ -7,12 +7,18 @@
 - The value of a method is always a function.
 - In order to simplify the concept of an object I will give you an example :
 > Imagine we have a building with two apartments in each floor, the building has 10 floors :
-     >  var building = {
-     >  name: “appolo”,
-     >  apartmentsPerFloor: 2,
-     >  numberOfFloors: 10,
-     > checkNumberOFApartments: function () {
-     >  return numberOfFloors* apartmentsPerFloor;
+
+ >  var building = {
+
+ >  name: “appolo”,
+
+ >  apartmentsPerFloor: 2,
+
+ >  numberOfFloors: 10,
+
+ > checkNumberOFApartments: function () {
+
+ >  return numberOfFloors* apartmentsPerFloor;
      > }
      >};
 - In the above example you can see a*building object* where the object is stored in a variable called *building* and consist of the curly braces and their content. 
@@ -45,10 +51,14 @@
 
 ### If I want to apply same statements to each node in the nodelist what I can use?
 - LOOPING.
-    > for example :
-    > var manyItems= document .querySelectorAll (' li . special') ; // Store Nodelist in array
-    > if (special ltems.length > O) {                                   //If it contains items 
-    >for (var i=O; i ; i< special ltems . length; i++) {// Loop through each item
+    > for example:
+
+    > var manyItems= document .querySelectorAll (' li . special') ;//Store Nodelist in array
+
+    > if (special ltems.length > O) { //If it contains items 
+
+    > for (var i=O; i ; i< special ltems . length; i++) {// Loop through each item
+
     > specialltems[ i ]className='great';  //Change value of class attribute
     > }}
 
