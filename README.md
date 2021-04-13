@@ -30,7 +30,7 @@
  |  class05    |   [Fifth class](class05.md)      |
  |  class06    |   [Sixth class](class06.md)      |
  |  class07    |   [Seventh class](class07.md)    |
- |  8          |                                  |
+ |  class08    |   [eighth class](class08.md)     |
  |  9          |                                  |
  |  10         |                                  |
  |  11         |                                  |
