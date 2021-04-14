@@ -31,7 +31,7 @@
  |  class06    |   [Sixth class](class06.md)      |
  |  class07    |   [Seventh class](class07.md)    |
  |  class08    |   [eighth class](class08.md)     |
- |  9          |                                  |
+ |  class09    |   [ninth class](class09.md)      |
  |  10         |                                  |
  |  11         |                                  |
  |  12         |                                  |
