@@ -32,7 +32,7 @@
  |  class07    |   [Seventh class](class07.md)    |
  |  class08    |   [eighth class](class08.md)     |
  |  class09    |   [ninth class](class09.md)      |
- |  10         |                                  |
+ |  class10    |    [Tenth class](class10.md)     |
  |  11         |                                  |
  |  12         |                                  |
  |  13         |                                  |
