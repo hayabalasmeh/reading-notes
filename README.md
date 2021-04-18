@@ -33,7 +33,7 @@
  |  class08    |   [eighth class](class08.md)     |
  |  class09    |   [ninth class](class09.md)      |
  |  class10    |    [Tenth class](class10.md)     |
- |  11         |                                  |
+ |  class11    |    [Elevth class](class11.md)    |
  |  12         |                                  |
  |  13         |                                  |
  |  14         |                                  |
