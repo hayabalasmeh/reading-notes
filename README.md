@@ -34,7 +34,7 @@
  |  class09    |   [ninth class](class09.md)      |
  |  class10    |    [Tenth class](class10.md)     |
  |  class11    |    [Elevth class](class11.md)    |
- |  12         |                                  |
+ |  class12    | [Twelvth class](class12.md)      |
  |  13         |                                  |
  |  14         |                                  |
  |  15         |                                  |
