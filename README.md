@@ -35,6 +35,6 @@
  |  class10    |    [Tenth class](class10.md)     |
  |  class11    |    [Elevth class](class11.md)    |
  |  class12    | [Twelvth class](class12.md)      |
- |  13         |                                  |
+ |  class13    | [Thirteen class](class13.md)     |
  |  14         |                                  |
  |  15         |                                  |
