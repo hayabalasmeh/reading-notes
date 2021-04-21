@@ -36,5 +36,5 @@
  |  class11    |    [Elevth class](class11.md)    |
  |  class12    | [Twelvth class](class12.md)      |
  |  class13    | [Thirteen class](class13.md)     |
- |  14         |                                  |
- |  15         |                                  |
+ |  class14a   | [Fourteen a class](class14a.md)  |
+ |  class14b   | [Fourteen b class](class14b.md)  |
