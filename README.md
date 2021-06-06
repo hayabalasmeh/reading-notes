@@ -45,4 +45,4 @@
 
  | Third Level; Code (301) | Links for the Past Reading Notes | 
  | ----------- | -------------------------------- |
- |  class01    |        |
+ |  class01    |    [First class](class001.md)    |
