@@ -46,3 +46,4 @@
  | Third Level; Code (301) | Links for the Past Reading Notes | 
  | ----------- | -------------------------------- |
  |  class01    |    [First class](class001.md)    |
+ |  class02    |    [Second class](class002.md)   |
