@@ -48,3 +48,4 @@
  |  class01    |    [First class](class001.md)    |
  |  class02    |    [Second class](class002.md)   |
  |  class03    |    [Third class](class003.md)    |
+ |  class04    |    [Fourth class](class004.md)   |
