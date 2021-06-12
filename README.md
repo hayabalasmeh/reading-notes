@@ -49,4 +49,5 @@
  |  class02    |    [Second class](class002.md)   |
  |  class03    |    [Third class](class003.md)    |
  |  class04    |    [Fourth class](class004.md)   |
- |  class05    |    [Fifth class](class005.md)   |
+ |  class05    |    [Fifth class](class005.md)    |
+ |  class06    |    [Sixth class](class006.md)    |
