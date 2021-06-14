@@ -52,3 +52,4 @@
  |  class05    |    [Fifth class](class005.md)    |
  |  class06    |    [Sixth class](class006.md)    |
  |  class07    |    [Seventh class](class007.md)  |
+ |  class08    |    [eighth class](class008.md)   |
