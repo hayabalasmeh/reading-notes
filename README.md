@@ -65,3 +65,4 @@
  | Fourth Level; Code (401) | Links for the Past Reading Notes | 
  | ----------- | -------------------------------- |
  | First class |    [First class](firstclass.md)  |
+ | Second class |   [Second class](secondclass.md)|
