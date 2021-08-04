@@ -72,3 +72,4 @@
  | sixth Class  |  [sixth class](sixthclass.md)   |
  | seventh Class  |  [seventh class](seventhclass.md)   |
  | eighth Class  |  [eighth class](eighthclass.md)   |
+ | ninth Class  |  [ninth class](ninthclass.md)   |
