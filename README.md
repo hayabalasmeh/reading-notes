@@ -76,4 +76,4 @@
  | Tenth Class  |  [Tenth class](tenthclass.md)   |
  | Eleventh Class  |  [Eleventh class](eleventhclass.md)   |
  | Twelevth Class  |  [Twelevth class](twelevthclass.md)   |
- | Thirteen Class  |  [Thirteen class](Thirteenclass.md)   |
+ | Thirteen Class  |  [Thirteen class](thirteenclass.md)   |
