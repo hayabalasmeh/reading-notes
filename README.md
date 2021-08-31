@@ -85,3 +85,4 @@
  | Ninteen Class  |  [Ninteen class](ninteenclass.md)   |
  | Twenty class   |  [Class 20](class20.md)             |
  | Twenty one class | [class 21](class21.md) |
+ | Twenty-two  class | [class 22](class22.md) |
