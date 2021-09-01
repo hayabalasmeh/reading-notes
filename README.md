@@ -87,3 +87,4 @@
  | Twenty one class | [class 21](class21.md) |
  | Twenty-two  class | [class 22](class22.md) |
  | Twenty-Three  class | [class 23](class23.md) |
+ | Twenty-four  class | [class 24](class24.md) |
