@@ -88,3 +88,4 @@
  | Twenty-two  class | [class 22](class22.md) |
  | Twenty-Three  class | [class 23](class23.md) |
  | Twenty-four  class | [class 24](class24.md) |
+ | Twenty-five  class | [class 25](class25.md) |
