@@ -90,3 +90,4 @@
  | Twenty-four  class | [class 24](class24.md) |
  | Twenty-five  class | [class 25](class25.md) |
  | Twenty-six  class | [class 26](class26.md) |
+ | Twenty-sevevn  class | [class 27](class27.md) |
