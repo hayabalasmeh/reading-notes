@@ -92,3 +92,4 @@
  | Twenty-six  class | [class 26](class26.md) |
  | Twenty-sevevn  class | [class 27](class27.md) |
  | Twenty-eight  class | [class 28](class28.md) |
+| Twenty-nine  class | [class 29](class29.md) |
