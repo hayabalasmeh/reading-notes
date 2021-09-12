@@ -93,3 +93,4 @@
  | Twenty-sevevn  class | [class 27](class27.md) |
  | Twenty-eight  class | [class 28](class28.md) |
 | Twenty-nine  class | [class 29](class29.md) |
+| Thirty  class | [class 30](class30.md) |
