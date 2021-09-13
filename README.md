@@ -94,3 +94,4 @@
  | Twenty-eight  class | [class 28](class28.md) |
 | Twenty-nine  class | [class 29](class29.md) |
 | Thirty  class | [class 30](class30.md) |
+| Thirty one  class | [class 31](class31.md) |
