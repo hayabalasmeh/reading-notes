@@ -1,5 +1,7 @@
 # Our topic is about React:
 
+![react](https://lh3.googleusercontent.com/proxy/76zTzvfFCdDgoFNZdYaXCp6TcZ0A0KH2sP42NnkxwKvgkZR12J0UpUAjsQZvGVoXPIjnhPAzQgeegppHcpevG5MzxPQmvRamSIWeO20mAG0Fg_IFqweI3n_nPwz1)
+
 ## What syntax used in React ?
 
 - JSX: it is a syntax extension to JavaScriptReact  and react doesn’t require using JSX, but most people find it helpful as a visual aid when working with UI inside the JavaScript code
