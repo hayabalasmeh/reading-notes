@@ -22,35 +22,6 @@
 
 6- **Context Manager and adding Support for the With Statement**: __ enter__, __ exit__
 
-## Our second topic is Basic Statistics in Python — Probability:
-
-![probability](https://i.ytimg.com/vi/7Ntf-Kvl2M4/maxresdefault.jpg)
-
-
-
-
-### First what is probability?
-
-- As a term it's the chance of an event happening
-- To calculate the probability of an event occurring, we count how many times are event of interest can occur and dividing it by the sample space.
-  - What is the sample space ?
-  - They are the possible events that could happen
-
-### How statistics and probability related ?
-
-> Given enough data, statistics enables us to calculate probabilities using real-world observations. 
-> Probability provides the theory, while statistics provides the tools to test that theory using data.
-
-### The Normal distribution;
-
-- In probability, the normal distribution is a particular distribution of the probability across all of the events. 
-
-### Why the normal distribution is significant to probability and statistics ?
-
-- Because of two factors: 
-
-1-**the Central Limit Theorem**
-2-**Three Sigma Rule.** 
 
 # Second Topic is about Python Iterators:
 
