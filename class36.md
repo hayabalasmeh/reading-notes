@@ -6,7 +6,9 @@
 
 > The more software continues to take over every aspect of our lives, the more important it will be for us to take a stand and ensure that our ethics are ever-present in our code.
 
-## Our Second topic is about “Ethics in Technology” 
+# Our Second topic is about “Ethics in Technology” 
+
+## An article about Big Data is our Civil Rights issue
 
 - So how do we regulate the way data is dealing with this properly to somehow link what the data is with how it can be used.
 
